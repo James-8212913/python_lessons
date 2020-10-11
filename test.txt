@@ -1,1 +1,4 @@
 this is a test file
+this is the second line of the file
+this is the lucky last line
+and a fourth to see what happens...
